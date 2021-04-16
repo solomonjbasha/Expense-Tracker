@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/solomonjbasha/Expense-Tracker.git/static/css/main.708a4d9b.chunk.css",
+    "main.js": "/solomonjbasha/Expense-Tracker.git/static/js/main.e1a886a3.chunk.js",
+    "main.js.map": "/solomonjbasha/Expense-Tracker.git/static/js/main.e1a886a3.chunk.js.map",
+    "runtime-main.js": "/solomonjbasha/Expense-Tracker.git/static/js/runtime-main.cf8fbc37.js",
+    "runtime-main.js.map": "/solomonjbasha/Expense-Tracker.git/static/js/runtime-main.cf8fbc37.js.map",
+    "static/js/2.b190f742.chunk.js": "/solomonjbasha/Expense-Tracker.git/static/js/2.b190f742.chunk.js",
+    "static/js/2.b190f742.chunk.js.map": "/solomonjbasha/Expense-Tracker.git/static/js/2.b190f742.chunk.js.map",
+    "index.html": "/solomonjbasha/Expense-Tracker.git/index.html",
+    "precache-manifest.a2941049ddbe66a62463f8982b7be72a.js": "/solomonjbasha/Expense-Tracker.git/precache-manifest.a2941049ddbe66a62463f8982b7be72a.js",
+    "service-worker.js": "/solomonjbasha/Expense-Tracker.git/service-worker.js",
+    "static/css/main.708a4d9b.chunk.css.map": "/solomonjbasha/Expense-Tracker.git/static/css/main.708a4d9b.chunk.css.map",
+    "static/js/2.b190f742.chunk.js.LICENSE.txt": "/solomonjbasha/Expense-Tracker.git/static/js/2.b190f742.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf8fbc37.js",
+    "static/js/2.b190f742.chunk.js",
+    "static/css/main.708a4d9b.chunk.css",
+    "static/js/main.e1a886a3.chunk.js"
+  ]
+}
